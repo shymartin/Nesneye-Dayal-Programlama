@@ -1,4 +1,4 @@
-# Nesneye Dayal Programlama
+# Nesneye Dayalý Programlama
 Bu repository _Sakarya Üniversitesi_ bilgisayar mühendisði ***Nesneye Dayal Programlama*** ödevlerinin paylaþýlmasý amacýyla oluþturulmuþtur.Kod incelemesi yaparak bana destek olun.Benimle aþaðýdaki adreslerden temas kurabilirsiniz.
 ***
 Alihan SARAÇ
