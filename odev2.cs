@@ -210,6 +210,15 @@ namespace g191210057ArkadasMi
                     label3.BackColor = Color.Red;//arkadasmi butonunun alti kirmizi olur
                     MessageBox.Show("X ve Y arkadas sayi degildir.", "Sonuc", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 }
+
+                DialogResult sonuc = MessageBox.Show("Tekrardan islem yapmak istiyormusunuz", "islem", MessageBoxButtons.YesNo, MessageBoxIcon.Information);
+                if (sonuc != DialogResult.Yes)
+                {
+                    Arkadasmi_button.Enabled = false;
+
+
+
+                }
             }
 
             private void Cikis_button2_Click(object sender, EventArgs e)

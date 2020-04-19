@@ -1,5 +1,5 @@
 # Nesneye Dayalý Programlama
-Bu repository _Sakarya Üniversitesi_ bilgisayar mühendisði ***Nesneye Dayal Programlama*** ödevlerinin paylaþýlmasý amacýyla oluþturulmuþtur.Kod incelemesi yaparak bana destek olun.Benimle aþaðýdaki adreslerden temas kurabilirsiniz.
+Bu repository _Sakarya Üniversitesi_ bilgisayar mühendisliði ***Nesneye Dayalý Programlama*** ödevlerinin paylaþýlmasý amacýyla oluþturulmuþtur.Kod incelemesi yaparak bana destek olun.Benimle aþaðýdaki adreslerden temas kurabilirsiniz.
 ***
 Alihan SARAÇ
 
