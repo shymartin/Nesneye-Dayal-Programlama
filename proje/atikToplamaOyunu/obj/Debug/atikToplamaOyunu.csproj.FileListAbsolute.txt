@@ -1,0 +1,20 @@
+C:\Users\Ömer\source\repos\ömer faruk susuzzzz\atikToplamaOyunu\bin\Debug\atikToplamaOyunu.exe.config
+C:\Users\Ömer\source\repos\ömer faruk susuzzzz\atikToplamaOyunu\bin\Debug\atikToplamaOyunu.exe
+C:\Users\Ömer\source\repos\ömer faruk susuzzzz\atikToplamaOyunu\bin\Debug\atikToplamaOyunu.pdb
+C:\Users\Ömer\source\repos\ömer faruk susuzzzz\atikToplamaOyunu\obj\Debug\atikToplamaOyunu.csprojAssemblyReference.cache
+C:\Users\Ömer\source\repos\ömer faruk susuzzzz\atikToplamaOyunu\obj\Debug\atikToplamaOyunu.atikToplamaOyunu.resources
+C:\Users\Ömer\source\repos\ömer faruk susuzzzz\atikToplamaOyunu\obj\Debug\atikToplamaOyunu.Properties.Resources.resources
+C:\Users\Ömer\source\repos\ömer faruk susuzzzz\atikToplamaOyunu\obj\Debug\atikToplamaOyunu.csproj.GenerateResource.cache
+C:\Users\Ömer\source\repos\ömer faruk susuzzzz\atikToplamaOyunu\obj\Debug\atikToplamaOyunu.csproj.CoreCompileInputs.cache
+C:\Users\Ömer\source\repos\ömer faruk susuzzzz\atikToplamaOyunu\obj\Debug\atikToplamaOyunu.exe
+C:\Users\Ömer\source\repos\ömer faruk susuzzzz\atikToplamaOyunu\obj\Debug\atikToplamaOyunu.pdb
+C:\Users\Alihan SARAÇ\Desktop\Alihan Saraç\Alihan Saraç\atikToplamaOyunu\bin\Debug\atikToplamaOyunu.exe.config
+C:\Users\Alihan SARAÇ\Desktop\Alihan Saraç\Alihan Saraç\atikToplamaOyunu\bin\Debug\atikToplamaOyunu.exe
+C:\Users\Alihan SARAÇ\Desktop\Alihan Saraç\Alihan Saraç\atikToplamaOyunu\bin\Debug\atikToplamaOyunu.pdb
+C:\Users\Alihan SARAÇ\Desktop\Alihan Saraç\Alihan Saraç\atikToplamaOyunu\obj\Debug\atikToplamaOyunu.csprojAssemblyReference.cache
+C:\Users\Alihan SARAÇ\Desktop\Alihan Saraç\Alihan Saraç\atikToplamaOyunu\obj\Debug\atikToplamaOyunu.atikToplamaOyunu.resources
+C:\Users\Alihan SARAÇ\Desktop\Alihan Saraç\Alihan Saraç\atikToplamaOyunu\obj\Debug\atikToplamaOyunu.Properties.Resources.resources
+C:\Users\Alihan SARAÇ\Desktop\Alihan Saraç\Alihan Saraç\atikToplamaOyunu\obj\Debug\atikToplamaOyunu.csproj.GenerateResource.cache
+C:\Users\Alihan SARAÇ\Desktop\Alihan Saraç\Alihan Saraç\atikToplamaOyunu\obj\Debug\atikToplamaOyunu.csproj.CoreCompileInputs.cache
+C:\Users\Alihan SARAÇ\Desktop\Alihan Saraç\Alihan Saraç\atikToplamaOyunu\obj\Debug\atikToplamaOyunu.exe
+C:\Users\Alihan SARAÇ\Desktop\Alihan Saraç\Alihan Saraç\atikToplamaOyunu\obj\Debug\atikToplamaOyunu.pdb
