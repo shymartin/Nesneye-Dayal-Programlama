@@ -1,14 +1,14 @@
 ﻿/***************************************************************************
 **					      SAKARYA ÜNİVERSİTESİ                            **
 **			   BİLGİSAYAR VE BİLİŞİM BİLİMLERİ FAKÜLTESİ                  **
-**				    BİLGİSAYAR MÜHENDİSLİĞİ BÖLÜMÜ                        **
+**				    BİLİŞİM SİSTEMLERİ MÜHENDİSLİĞİ BÖLÜMÜ                **
 **				   NESNEYE DAYALI PROGRAMLAMA DERSİ                       **
 **					   2019-2020 BAHAR DÖNEMİ                             **
 **                                                                     	  **
 **		                                                                  **		
-**				ÖĞRENCİ ADI............: Alihan SARAÇ                     **
-**				ÖĞRENCİ NUMARASI.......: G191210057                       **
-**              DERSİN ALINDIĞI GRUP...: 2A                               **
+**				ÖĞRENCİ ADI............: Muhammet Onur Işık               **
+**				ÖĞRENCİ NUMARASI.......: B191200056                       **
+**              DERSİN ALINDIĞI GRUP...: A                                **
 ****************************************************************************/
 using atikToplamaOyunu.Class;
 using System;
